@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  background-color: #f8f8f8;
+  color: #333;
+}
+.nascimento {
+  padding: 2rem;
+  background-color: white;
+  color: #000000;
+  margin: 1rem 0;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+}
+.header {
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+}
+.h1 {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  text-align: center;
+}
+.menu {
+  background-color: #007bff;
+}
+
+.menu ul {
+  display: inline-flex;
+  padding: 0;
+}
+
+.menu ul li {
+  list-style-type: none;
+  margin: 20px;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* Forum */
+.proposito_container {
+  display: flex;
+  flex-direction: column;
+}
+
+.proposito_header {
+  background-color: #03fff2;
+  color: white;
+  padding: 1rem;
+  border-radius: 8px 8px 0 0;
+}
+
+.proposito_conteudo {
+  background-color: #fff;
+  padding: 1rem;
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.propositoC {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #e9ecef;
+  padding-bottom: 1rem;
+}
+
+.propositoC:last-child {
+  border-bottom: none;
+}
