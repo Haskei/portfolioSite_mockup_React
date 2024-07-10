@@ -20,17 +20,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Propósito
+Este projeto comtem um protótipo de um site para servir como um potfólio para mim, Pedro Henrique Novicov de Andrade. O foco é na estrutura geral do site para dar uma idéia das minhas habilidades em geral, faltou a inclusão de uma API que, enquanto
+eu sei usar, não teria propósito para este projeto. Eu também não poderia controlar o uso nem pagar taxas caso o uso passasse de um certo ponto, mesmo que eu duvide que um numero grande de pessoas irão ver este projeto. Minha opinião sobre o estado
+final do projeto pode ser achada na pagina 2 do site.
